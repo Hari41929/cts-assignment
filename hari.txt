@@ -1,4 +1,4 @@
 hello my name is abi ... i am the creator of stack smith
 
 and testing the commit id fetching
-again agian
+again agian checking pattern
