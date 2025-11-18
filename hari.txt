@@ -5,9 +5,9 @@ import {
   Timeline,
   TimelineItem,
   TimelineSeparator,
-  TimelineDot,
+  TimeleDot,
   TimelineConnector,
-  hariharan
+  
 } from "@mui/lab";
 
 import { Button, TextField } from "@mui/material";
@@ -15,7 +15,7 @@ import AxioProtector from "../../../api/AxioProtected";
 
 const steps = [
   { label: "Fetching Repository Data" },
-  { label: "hello world"
+  { label: "
   { label: "Sync Completed Successfully" },
 ];
 
