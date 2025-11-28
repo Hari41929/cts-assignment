@@ -4,7 +4,7 @@ import TabPanel from "../utils/TabPanel";
 import {
   Timeline,
   TiItem,
-  Timeliator,
+  Timnfnjsbhbjntor,
   TimeleDot,
   TimelineConnector,
   
