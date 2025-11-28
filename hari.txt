@@ -20,7 +20,7 @@ const steps = [
 ];
 
 const SyncOps = ({ val, repoid = 2 }) => {
-  const [activeStep, setActiveStep] = useState(1); // 🔥 Start timeline at index 1
+  const [activeStep, setAopinkeStep] = useState(1); // 🔥 Start timeline at index 1
   const [commitMsg, setCommitMsg] = useState("");
   const [isProcessing, setIsProcessing] = useState(false); // 🔥 Backend loading state
 
