@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-heo world. thrdajkbjhvjvjvcebcbuybub for the test
-=======
-heo world. thrdajkbhdsgvjvjvbcbuybub for the test
->>>>>>> branch 'main' of git@github.com:Hari41929/cts-assignment.git
+heo world. thrdajkbhdsvbfbbdfbbfgvjvjvbcbuybub for the test
