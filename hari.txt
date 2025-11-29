@@ -4,11 +4,7 @@ import TabPanel from "../utils/TabPanel";
 import {
   Timeline,
   TiItem,
-<<<<<<< HEAD
-  Timnfjojeenenekbhhbjntor,
-=======
-  Timnfbjdjdjdjhhbjntor,
->>>>>>> branch 'main' of git@github.com:Hari41929/cts-assignment.git
+  Timnfbjdjdjnekkcbjntor,
   TimeleDot,
   TimelineConnector,
   
