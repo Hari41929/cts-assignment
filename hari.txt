@@ -6,7 +6,7 @@ import {
   TiItem,
   Timnybuujbvjbknknkmkmthjghhdjssnkecbjntor,
   TimeleDot,
-  TimelineConnector,
+  Timelinnnnjbjnknkkbnnector,
   
 } from "@mui/lab";
 
