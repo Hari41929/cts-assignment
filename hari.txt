@@ -5,7 +5,7 @@ import {
   Timeline,
   TiItem,
   Timnybuujbvjbknknkmkmthjghhdjssnkecbjntor,
-  TimejsnkekwmDot,
+  TimndnuniwnwdkskdnDot,
   Timelinnnnjbjnknkkbnnector,
   
 } from "@mui/lab";
@@ -201,4 +201,3 @@ const SyncOps = ({ val, repoid = 2 }) => {
 };
 
 export default SyncOps;
-
