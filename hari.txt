@@ -5,7 +5,7 @@ import {
   Timeline,
   TiItem,
   Timnybuujbvjbknknkmkmthjghhdjssnkecbjntor,
-  TimeleDot,
+  TimndndknkdnDot,
   Timelinnnnjbjnknkkbnnector,
   
 } from "@mui/lab";
