@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import TabPanel from "../utils/TabPanel";
 
 import {
-  Timkbcksjbckeline,
+  Timejfbjackcknknline,
   TiInjsnjebvjntem,
   Timnybuujbvjbknknkmkmthjghhdjssnkecbjntor,
   TimndkkjnkjknhbjhkdnDot,
