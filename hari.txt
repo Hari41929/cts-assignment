@@ -3,7 +3,7 @@ import TabPanel from "../utils/TabPanel";
 
 import {
   Timejfbjackcknknline,
-  TiInjsnjebvjntem,
+  TiInjsnjebveyuioedcjntem,
   Timnybuujbvjbknknkmkmthjghhdjssnkecbjntor,
   TimndkkjnkjknhbjhkdnDot,
   Timelinnnnjbjnknkkbnnector,
