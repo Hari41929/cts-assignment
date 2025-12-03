@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this sichhjbdukbcjbnejkbckjbecjhbhgvhgvs onoancv caonconcoanc cinanceinc sevsv hnianci c
+=======
+this sichhcjbnejkbckjbecjnbcjkbeckbjhbhgvhgvs onoancv caonconcoanc cinanceinc sevsv hnianci c
+>>>>>>> branch 'main' of git@github.com:Hari41929/cts-assignment.git
