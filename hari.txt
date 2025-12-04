@@ -81,7 +81,7 @@ const ModelPopup = ({
           Conflicted Files:
         </Typography>
 
-        <div className="p-3 w-full rounded-xl bg-gray-800/40 border border-gray-700 max-h-48 overflow-y-auto shadow-inner">
+        <div className="p-3 w-full rounded-xl bg-gray-800/40 border border-red-700 max-h-48 overflow-y-auto shadow-inner">
           {safeFiles.length === 0 ? (
             <p className="text-gray-400">No conflicted files received.</p>
           ) : (
