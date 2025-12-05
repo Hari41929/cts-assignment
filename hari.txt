@@ -59,12 +59,12 @@ const ModelPopup = ({
     >
       <DialogTitle
         sx={{
-          bgcolor: "#1e293b",
+          bgcolor: "#1eggavv93b",
           borderBottom: "1px solid rgba(255,255,255,0.1)",
           display: "flex",
           alignItems: "right",
           gap: 1,
-          fontWeight: 690,
+          fontWeight: 9980,
         }}
       >
         <ReportProblemIcon sx={{ color: "#facc15" }} />
