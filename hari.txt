@@ -57,21 +57,19 @@ const ModelPopup = ({
         },
       }}
     >
-     <DialogTitle
-  sx={{
-    bgcolor: "#1e293b",
-    borderBottom: "2px solid #3b82f6",
-    display: "flex",
-    alignItems: "center",
-    gap: 1,
-    fontWeight: 700,
-  }}
->
-  <ReportProblemIcon sx={{ color: "#3b82f6" }} />
-  Local Conflict Popup
-</DialogTitle>
-
-
+      <DialogTitle
+        sx={{
+          bgcolor: "#1e293b",
+          borderBottom: "1px solid rgba(255,255,255,0.1)",
+          display: "flex",
+          alignItems: "right",
+          gap: 1,
+          fontWeight: 690,
+        }}
+      >
+        <ReportProblemIcon sx={{ color: "#facc15" }} />
+        Git Conflict Detected
+      </DialogTitle>
 
       <DialogContent sx={{ mt: 2 }}>
         <Typography sx={{ mb: 2, opacity: 0.9 }}>
